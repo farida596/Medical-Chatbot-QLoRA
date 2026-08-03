@@ -149,19 +149,6 @@ What are the symptoms of diabetes?
 Hello and welcome to Chat Doctor.
 
 Diabetes is a chronic disease characterized by high blood sugar levels.
-
-Common symptoms include:
-
-• Increased thirst
-• Frequent urination
-• Fatigue
-• Blurred vision
-• Unexplained weight loss
-• Slow wound healing
-
-Please consult a healthcare professional for proper diagnosis and treatment.
-```
-
 ---
 
 # 📊 Results
